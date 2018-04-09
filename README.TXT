@@ -1,12 +1,12 @@
-+----------------------+
-|INFO.BAT              |
-|   (c) 2018 NizhamPihe|
-+----------------------+
++---------------------------------+
+| INFO.BAT                 v1.0.0 |
+|             (c) 2018 NizhamPihe |
++---------------------------------+
 
 DESCRIPTION
 
-    kode untuk menetahui
-info seputar file berupa
+    kode untuk mengetahui info 
+seputar file berupa
 - nama
 - tipe
 - ukuran
